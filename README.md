@@ -1,6 +1,6 @@
-# JavaScript Lecture Starter Code
+# TypeScript Lecture Starter Code
 
-To run a file, use the command `bun filename.js` in the terminal.
+To run a file, use the command `bun filename.ts` in the terminal.
 
 To install dependencies:
 
