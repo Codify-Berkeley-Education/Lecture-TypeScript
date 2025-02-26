@@ -7,3 +7,5 @@ To install dependencies:
 ```bash
 bun install
 ```
+
+Workflow: basic -> functions -> inference -> casting
